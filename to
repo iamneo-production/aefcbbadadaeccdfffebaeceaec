@@ -1,0 +1,15 @@
+
+> node@20.6.0 preinstall /home/coder/project/workspace/node_modules/node
+> node installArchSpecificPackage
+
++ node-linux-x64@20.6.0
+added 1 package in 4.051s
+found 0 vulnerabilities
+
++ install@0.13.0
++ -@0.0.1
++ node@20.6.0
++ modules@0.4.0
+added 5 packages from 3 contributors and audited 5 packages in 5.639s
+found 0 vulnerabilities
+
